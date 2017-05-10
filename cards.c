@@ -2,7 +2,7 @@
 // cards.c
 
 /**********************************************************************************	*/
-/* Author: Christian Hidalgo. PID: 2103434                                          */
+/* Author: Christian Hidalgo.                                          */
 
 /* Description: program will hold all of the functions used in cards.c relating to 
    'struct cards' and 'struct deck'.                                                */
